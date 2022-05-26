@@ -3,14 +3,17 @@ wall of shields
 standing strong
 on this their chosen battle field
 
-<<<<<<< HEAD
-form the lines
-Shield by shield
+
+Form the lines
+Shiekd by shield
 Side by side
-We're marcing into destiny
-=======
+We're marching into destiny
+
+
 March as one 
 Don't look back 
 Oden's sons
 Attack!
->>>>>>> feature
+
+
+for tag only
